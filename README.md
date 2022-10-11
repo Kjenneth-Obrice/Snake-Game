@@ -10,7 +10,7 @@ Track your progress with the project by updating the checkmarks down below
 - [x] Fork this project into your own Github project
 - [x] Enable `Source: Github Actions` in Settings/Pages of your project
 - [x] Open Actions and manually run the `Deploy Next.js site to Pages` Workflow
-- [x] Confirm that your website is auto-deployed to [https://Kjenneth-Obrice.github.io/snake-game/game](https://Kjenneth-Obrice.github.io/snake-game/game) 
+- [x] Confirm that your website is auto-deployed to [https://kjenneth-obrice.github.io/Snake-Game/](https://kjenneth-obrice.github.io/Snake-Game/) 
   - [x] Make sure to update the `{username}` texts on the line above to your github username
 - [x] Make sure the following are installed (Two of these will already be installed on computer sets up for robotics)
   - [x] Git: [Install](https://git-scm.com/downloads)
@@ -18,7 +18,7 @@ Track your progress with the project by updating the checkmarks down below
   - [x] Node.js: [Install](https://nodejs.org/en/)
 - [x] Install node packages `npm install` in a command line window
 - [x] Start the server locally: `npm run dev`
-- [ ] Browser to the local server: [http://localhost:3000/](http://localhost:3000/)
+- [x] Browser to the local server: [http://localhost:3000/](http://localhost:3000/)
 
 ## Grid Helper
 
